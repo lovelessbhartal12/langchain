@@ -1,0 +1,12 @@
+Cricket
+
+Cricket is a popular sport played between two teams of eleven players each.
+It is played using a bat and a ball on a circular or oval field with a rectangular pitch at the center.
+
+The main formats of cricket are Test matches, One Day Internationals (ODIs), and Twenty20 (T20).
+Test cricket is the longest format and is considered the ultimate test of a player's skill and endurance.
+
+Cricket originated in England and is now widely played in countries like India, Australia,
+England, Pakistan, South Africa, New Zealand, Sri Lanka, Bangladesh, and Nepal.
+
+The game emphasizes teamwork, strategy, and sportsmanship.

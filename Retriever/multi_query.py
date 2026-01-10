@@ -4,7 +4,7 @@ from langchain_core.documents import Document
 import os
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAI
-from langchain_community.retrievers.multi_query.base import MultiQueryRetriever
+# from langchain_community.retrievers.multi_query.base import MultiQueryRetriever
 
  # Relevant health & wellness documents
 all_docs = [
